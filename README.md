@@ -44,7 +44,7 @@ The system processes visual data through multiple stages:
 
 ### Live Detection Demo
 
-![Detection Demo 1](images/streamlit_interface_demo.png)
+![Detection Demo 1](images/exact_demo.png)
 
 ### Model Configuration and Results
 
