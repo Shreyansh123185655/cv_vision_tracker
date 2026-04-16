@@ -42,11 +42,26 @@ The system processes visual data through multiple stages:
 
 ![Streamlit Interface](images/YOLOv8-DeepSort-Streamlit-Counting.jpg)
 
+### Live Detection Demo
+
+![Detection Demo 1](images/streamlit_interface_demo.png)
+
+### Model Configuration and Results
+
+![Detection Demo 2](images/streamlit_interface_demo.png)
+
 The web interface provides real-time visualization with:
 - Live object detection with bounding boxes
 - Confidence scores for each detection
 - Directional counting statistics
 - Interactive model selection controls
+
+Key interface features:
+- **Sidebar Controls**: Model selection (yolov8n, yolov8s, etc.)
+- **Confidence Adjustment**: Real-time threshold tuning (30-100%)
+- **Input Sources**: Image, Video, and Webcam options
+- **Live Detection**: Real-time object tracking with bounding boxes
+- **Counting Statistics**: In/out vehicle movement tracking
 
 ![YOLOv8 Banner](images/banner-yolov8.png)
 
