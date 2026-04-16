@@ -6,7 +6,7 @@ A powerful, user-friendly web application for real-time object detection, tracki
 
 ### **Live Application**
 - **GitHub Pages**: https://shreyansh123185655.github.io/cv_vision_tracker/
-- **Google Drive**: https://drive.google.com/file/d/1rz5oC1BeXpZphffsHS4AI3XFRGLiEaAK/view?usp=sharing
+- **Report Google Drive**: https://drive.google.com/file/d/1rz5oC1BeXpZphffsHS4AI3XFRGLiEaAK/view?usp=sharing
 
 ### **Quick Access**
 - 🌐 **Live Demo**: Interactive web application
