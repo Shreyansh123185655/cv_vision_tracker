@@ -2,6 +2,17 @@
 
 A powerful, user-friendly web application for real-time object detection, tracking, and counting using state-of-the-art YOLOv8 models with DeepSORT tracking algorithm. Built with Streamlit for an intuitive interface.
 
+## 🚀 Live Demo & Resources
+
+### **Live Application**
+- **GitHub Pages**: https://shreyansh123185655.github.io/cv_vision_tracker/
+- **Google Drive**: https://drive.google.com/file/d/1rz5oC1BeXpZphffsHS4AI3XFRGLiEaAK/view?usp=sharing
+
+### **Quick Access**
+- 🌐 **Live Demo**: Interactive web application
+- 📁 **Resources**: Additional files and documentation
+- 🔗 **Direct Links**: Instant access to project
+
 ## 🎯 Project Overview
 
 AI Vision Tracker combines cutting-edge computer vision technologies to provide:
